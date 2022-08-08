@@ -1,5 +1,6 @@
 {
   "name": "curso-avanzado-graphql-server",
+  "alias": ["petgram"],
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
